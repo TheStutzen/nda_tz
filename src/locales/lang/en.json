@@ -1,0 +1,15 @@
+{
+  "ADDRESS": {
+    "mostChangedBalance": {
+      "notFound": "No transactions in block",
+      "response": "Most changed address: {{address}}, change: {{change}}"
+    }
+  },
+  "HTTP": {
+    "200": "OK",
+    "401": "Unauthorized",
+    "403": "Access to the resource is forbidden",
+    "404": "Not found",
+    "500": "Internal Server Error"
+  }
+}
